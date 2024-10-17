@@ -4,3 +4,8 @@ This project is done in the context of the foundation course of [*The Odin Proje
 
 Odin Recipes consists of a small website hosting basic recipes.
 It is done entirely in HTML so it looks pretty basic.
+
+## Available recipes :
+- Croque Madame
+- Beef Bourguignon
+- Tarte Tatin
