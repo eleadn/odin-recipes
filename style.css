@@ -1,0 +1,33 @@
+ul li {
+    margin-top: 10px;
+}
+
+ol li {
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h1, h2 {
+    background-color: black;
+    color: white;
+}
+
+.recipes-index {
+    font-style: italic;
+    font-size: larger;
+}
+
+.recipe-preview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: auto;
+}
